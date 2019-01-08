@@ -1,4 +1,4 @@
-#!/home/joe/flask_tutorial/bin/python2.7
+#!/home/joe/flask_blog/env/bin/python2.7
 
 # -*- coding: utf-8 -*-
 import re

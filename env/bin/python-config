@@ -1,4 +1,4 @@
-#!/home/joe/flask_tutorial/bin/python
+#!/home/joe/flask_blog/env/bin/python
 
 import sys
 import getopt
